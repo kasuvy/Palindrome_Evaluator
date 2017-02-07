@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+body {
+ background-color: #E2F9FB;
+ color: #FF0000;
+}
+h1 {
+ color: #FF0000;
+ text-align: center;
+ font: Times New Roman Bold;
+}
+h3 {
+	color: #FF4900;
+	text-align: center;
+	font: Comic Sans MS;
+}
